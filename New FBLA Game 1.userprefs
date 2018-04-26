@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="New FBLA Game 1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Quests\Quest 1\QuestNPC.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Glowstick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quests\Quest 1\Quest1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quests\Quest 1\QuestNPC.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
